@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madiiik
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning java and Web development
+- 🌱 I’m currently cybersecurity base (I know it's too late, but whatever)
 - 📫 And that is meee
 
 <!---
